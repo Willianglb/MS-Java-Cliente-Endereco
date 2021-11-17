@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "nome": "Rodrigo",
+  "cep": "87888999",
+  "logradouro": "Rua qualquer quer",
+  "numero": 54,
+  "complemento": "apto 213",
+  "bairro": "Bairo qualquer",
+  "cidade": "Desterro",
+  "uf": "SC"
+}

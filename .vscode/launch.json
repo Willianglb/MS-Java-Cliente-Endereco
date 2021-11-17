@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsEurekaServerApplication<ms-eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.mseurekaserver.MsEurekaServerApplication",
+            "projectName": "ms-eureka-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsConfigServerApplication<ms-config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.msconfigserver.MsConfigServerApplication",
+            "projectName": "ms-config-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsEnderecoApplication<ms-endereco>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.unisul.aula.msendereco.MsEnderecoApplication",
+            "projectName": "ms-endereco",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsGatewayApplication<ms-gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.unisul.aula.msgateway.MsGatewayApplication",
+            "projectName": "ms-gateway",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsClienteApplication<ms-cliente>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.unisul.aula.mscliente.MsClienteApplication",
+            "projectName": "ms-cliente",
+            "args": ""
+        }
+    ]
+}

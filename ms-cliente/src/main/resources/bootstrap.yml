@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 'cliente'
+  profiles:
+    active: 'fp'
+  cloud:
+    config:
+      uri: http://localhost:8888
